@@ -15,6 +15,7 @@ const courses = [
     { id: 5, name: 'course5' },
 ];
 
+
 // Middleware to pretty-print JSON responses
 app.set('json spaces', 4);
 
